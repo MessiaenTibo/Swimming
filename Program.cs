@@ -66,7 +66,7 @@ class Program {
         int? PoolLength = Convert.ToInt32(Console.ReadLine()?.Trim().Replace("m",""));
         Console.WriteLine("How many lenghts did you swim?");
         int? Lenghts = Convert.ToInt32(Console.ReadLine());
-        string Distance = Convert.ToString(PoolLength * Lenghts);
+        string? Distance = Convert.ToString(PoolLength * Lenghts);
 
         // Getting Swim Style
         Console.WriteLine("What swimstyle did you do? (f:freestyle, ba:backstroke, br:breaststroke or bu:butterfly)");
@@ -77,7 +77,7 @@ class Program {
         else if (SwimStyle == "br") SwimStyle = "Breaststroke";
         else if (SwimStyle == "bu") SwimStyle = "Butterfly";
         // Making sure the word starts with a capitle letter and no others
-        SwimStyle = textInfo.ToTitleCase(SwimStyle);
+        if (!string.IsNullOrEmpty(SwimStyle))SwimStyle = textInfo.ToTitleCase(SwimStyle);
 
         // Calculating Swim Pace
         double SecondsFor100m = TotalSeconds /Convert.ToInt32(Distance) * 100;
