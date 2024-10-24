@@ -1,0 +1,15 @@
+C:\TIBO\C#\Swimming\bin\Debug\net8.0\Swimming.exe
+C:\TIBO\C#\Swimming\bin\Debug\net8.0\Swimming.deps.json
+C:\TIBO\C#\Swimming\bin\Debug\net8.0\Swimming.runtimeconfig.json
+C:\TIBO\C#\Swimming\bin\Debug\net8.0\Swimming.dll
+C:\TIBO\C#\Swimming\bin\Debug\net8.0\Swimming.pdb
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.GeneratedMSBuildEditorConfig.editorconfig
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.AssemblyInfoInputs.cache
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.AssemblyInfo.cs
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.csproj.CoreCompileInputs.cache
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.sourcelink.json
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.dll
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\refint\Swimming.dll
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.pdb
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\Swimming.genruntimeconfig.cache
+C:\TIBO\C#\Swimming\obj\Debug\net8.0\ref\Swimming.dll
